@@ -1,0 +1,26 @@
+h1{
+    text-align: left;
+    color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#tiny{
+  background-color: rgb(177, 205, 230);
+}
+
+body{
+  background-color: azure;
+}
+
+img{
+  width: 150px;
+}
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6{
+  text-align: center;
+ background-color: cornsilk;
+ color: darkslategray;
+}
